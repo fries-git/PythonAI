@@ -5,6 +5,7 @@ To start, install Ollama and install the bot you'd like to use by typing it in t
 Once it loads, close the terminal window so it stops the bot. (Make sure the Ollama app is still running.)
 Next, create a bot with all possible intents.
 Grab the token and put it in the botkey variable.
+Replace the `userdefmodel` variable with a string for the bot you choose to use. (Use the same model from the above `ollama run llama3.3` string. You'd insert `"llama3.3"`
 On the Oauth page, only check the bot tab.
 Next invite it to your server with admin permissions.
 
