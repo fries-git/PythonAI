@@ -12,7 +12,7 @@ import asyncio
 
 # Variable Setups
 # Set botkey to your botkey.
-botkey = "Add your bot key."
+bottoken = "Add your bot token."
 intents = discord.Intents.default()
 intents.message_content = True  
 bot = commands.Bot(command_prefix='!', intents=intents)
@@ -43,4 +43,4 @@ async def ask(ctx: commands.Context):
     await ctx.send(response.message.content)
 
 # Run the bot using the previously defined Botkey. MAKE SURE YOURE BOT HAS ALL INTENTIONS BUT ON OAUTH PAGE ONLY BOT CHECKBOX.
-bot.run (str (botkey))
+bot.run (str (bottoken))
