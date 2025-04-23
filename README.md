@@ -14,5 +14,5 @@ Then finally, run the Python file!
 
 > [!CAUTION]
 > Do **NOT** share your bot token with anyone! This is very important!
-> [!INFO]
+> [!TIP]
 > The Ollama application may automatically start due to how I wrote the code.
