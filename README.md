@@ -1,8 +1,8 @@
 # PythonAI
 A python AI bot in discord using Ollama. To utilize this, view the comments in the Python file, or read a summary here.
 
-To start, install Ollama and install the bot youd like to use by typing it in the terminal. (something like `ollama run llama3.3`). 
-Once it loads, close the terminal window so it stops the bot.
+To start, install Ollama and install the bot you'd like to use by typing it in the terminal. (Something like `ollama run llama3.3`) 
+Once it loads, close the terminal window so it stops the bot. (Make sure the Ollama app is still running.)
 Next, create a bot with all possible intents.
 Grab the token and put it in the botkey variable.
 On the Oauth page, only check the bot tab.
