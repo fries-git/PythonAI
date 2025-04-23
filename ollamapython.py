@@ -1,5 +1,5 @@
 # To start, install Ollama. Next, create a bot with all possible intents.
-# Grab the key and put it in the botkey variable.
+# Grab the token and put it in the bottoken variable.
 # On the Oauth page, only check the bot tab.
 # Next invite it to your server with admin permissions.
 
@@ -11,7 +11,7 @@ from discord.ext import commands
 import asyncio
 
 # Variable Setups
-# Set botkey to your botkey.
+# Set bottoken to your bot's token.
 bottoken = "Add your bot token."
 intents = discord.Intents.default()
 intents.message_content = True  
