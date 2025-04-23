@@ -12,7 +12,7 @@ import asyncio
 
 # Variable Setups
 # Set botkey to your botkey.
-botkey = MTM2NDQwMDU4NjkwNDA0MzYyMQ.GsRvCw.Y2ggfVNPQZkPOWI-Rrbt97LQOkOOTzTieOCICA
+botkey = "Add your bot key."
 intents = discord.Intents.default()
 intents.message_content = True  
 bot = commands.Bot(command_prefix='!', intents=intents)
