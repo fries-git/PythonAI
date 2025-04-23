@@ -9,8 +9,10 @@ On the Oauth page, only check the bot tab.
 Next invite it to your server with admin permissions.
 
 Set the botkey variable to your bots token (the secret code you get upon creation.)
-Now, run the Ollama app. Don't start any models just make sure it shows in task manager. 
+Now, make sure the Ollama app is still running. Don't start any models just make sure it shows in task manager. 
 Then finally, run the Python file!
 
 > [!CAUTION]
 > Do **NOT** share your bot token with anyone! This is very important!
+> [!INFO]
+> The Ollama application may automatically start due to how I wrote the code.
