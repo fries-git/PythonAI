@@ -1,5 +1,6 @@
 # PythonAI
 A python AI bot in discord using Ollama. To utilize this, view the comments in the Python file, or read a summary here.
+https://discord.gg/venGcddV3H (Testing Server)
 
 To start, install Ollama and install the bot you'd like to use by typing it in the terminal. (Something like `ollama run llama3.3`) 
 Once it loads, close the terminal window so it stops the bot. (Make sure the Ollama app is still running.)
