@@ -16,7 +16,7 @@ bottoken = "Add your bot token."
 intents = discord.Intents.default()
 intents.message_content = True  
 bot = commands.Bot(command_prefix='!', intents=intents)
-userdefmodel = "qwq"
+userdefmodel = "zephyr:7b"
 
 # Bot Login
 @bot.event
